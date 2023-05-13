@@ -1,0 +1,43 @@
+/* Background */
+* {
+    background-color:aquamarine}
+
+/* Images */
+img {
+    height: 500px;
+    width: auto;
+    margin: auto;
+    display: block;
+}
+
+/* Headings */
+h1, h1 strong {
+    color:aliceblue;
+    background-color:black;
+    font-family: Helvetica, Arial, sans-serif;
+    
+}
+
+
+
+/* List Items */
+
+
+
+a:link, a:visited {
+color:aliceblue;
+background-color: black;
+font-family: Helvetica, Arial, sans-serif;
+
+}
+
+/* Classes */
+
+.main-heading {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 50px;
+}
+
+.main-link {
+    font-size: 50px;
+}
